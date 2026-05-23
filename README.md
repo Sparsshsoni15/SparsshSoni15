@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm SPARSH...<br>🔭 I’m currently pursuing B.tech in Electrical and Computer Engineering (ELCE). <br>🌱 I’m currently learning C++, Python.<br>💎 Interested in AI and Robotics.<br>⚡ Also a Defence Aspirant. 
+👋 Hi, I'm SPARSH...<br>🔭 Currently pursuing B.tech in Electrical and Computer Engineering (ELCE). <br>🌱 Learning C++, Python.<br>💎 Interested in AI and Robotics.<br>⚡ Also a Defence Aspirant. 
 
 
 ## 🌐 Socials:
