@@ -15,6 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/Sparsshsoni15/Sparsshsoni15/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 [![](https://komarev.com/ghpvc/?username=Sparsshsoni15&icon=0&color=0)](https://visitcount.itsvg.in)
 
